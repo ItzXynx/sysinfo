@@ -16,3 +16,4 @@ try:
     print(f"disk: {free:.1f}gb free / {total:.1f}gb total")
 except:
     pass
+# updated
